@@ -4,3 +4,4 @@ Neste projeto você terá o desafio de desenvolver uma API Rest para controle de
 
 # Detalhes
 Api rest para gerenciamento de ponto e controle de acesso.
+Baseado em um modelo  pesquisado.
